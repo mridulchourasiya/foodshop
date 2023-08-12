@@ -1,3 +1,5 @@
+![image](https://github.com/mridulchourasiya/foodshop/assets/99160348/d45db8b4-c884-4903-8ea3-35a0653e8f4a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
